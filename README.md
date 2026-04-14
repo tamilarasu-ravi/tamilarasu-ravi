@@ -1,65 +1,86 @@
-# 👋 Hi, I'm Tamilarasu Ravi
+<!-- 🔥 HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Tamilarasu Ravi</h1>
+<h3 align="center">Senior Software Engineer | AI Systems | Distributed Systems | Cloud Architectures</h3>
 
-🚀 Senior Software Engineer | AI Systems | Distributed Systems | Cloud Architectures
+<p align="center">
+  🚀 Building production-grade AI systems & scalable backend platforms  
+</p>
+
+---
+
+<!-- ⚡ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+LLM+%7C+RAG+Systems;Distributed+Systems+Engineer;Cloud+%7C+Microservices+%7C+Real-time+Systems&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a Senior Software Engineer with 10+ years of experience building scalable, production-grade systems across backend, cloud, and AI-driven platforms.
+- 10+ years building **scalable production systems**
+- Specialized in **AI (LLM, RAG) + Distributed Systems**
+- Strong in **Node.js, Python, AWS, GCP**
+- Experience across **Fintech, AI platforms, Blockchain**
 
-I specialize in:
-- Designing **distributed systems** and **microservices architectures**
-- Building **AI-powered applications (LLMs, RAG pipelines)**
-- Developing **real-time, event-driven systems**
-- Deploying scalable solutions on **AWS & GCP**
+👉 I don’t just build features — I design **systems that scale in production**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Backend & Systems**
-- Node.js, NestJS, Python (FastAPI)
-- Distributed Systems, Microservices, Event-Driven Architecture
+### 🧩 Backend & Systems
+Node.js | NestJS | Python (FastAPI)  
+Microservices | Distributed Systems | Event-Driven Architecture  
 
-**AI & LLM Engineering**
-- LLM Integration, RAG (Retrieval-Augmented Generation), MCP
-- Langraph, LangChain, Prompt Engineering, Vector Databases
+### 🤖 AI & LLM Engineering
+LLM Integration | RAG Pipelines | LangChain  
+Prompt Engineering | Vector Databases  
 
-**Cloud & DevOps**
-- AWS (Lambda, S3, EC2), GCP
-- Docker, Kubernetes, CI/CD Pipelines
+### ☁️ Cloud & DevOps
+AWS | GCP | Docker | Kubernetes | CI/CD  
 
-**Frontend**
-- React.js, Next.js, TypeScript, ReactNative
+### 🌐 Frontend
+React.js | Next.js | TypeScript  
 
-**Blockchain**
-- Ethereum, Solidity, Web3.js, Smart Contracts
+### 🔗 Blockchain
+Ethereum | Solidity | Web3  
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Work
 
-### 🤖 LLM + RAG Recommendation System
-- Built a production-grade AI recommendation engine using RAG pipelines
-- Implemented contextual retrieval and personalized output generation
-- Integrated with backend services for real-time user interaction
+### 🤖 LLM + RAG Recommendation Engine
+- Built production-grade AI system with contextual retrieval
+- Designed scalable RAG pipeline with real-time personalization
+- Integrated with backend microservices for live applications
 
 ---
 
 ### ⚡ Real-Time Event-Driven Sync Platform
-- Designed a distributed system using Redis Streams & WebSockets
+- Designed distributed system using Redis Streams + WebSockets
 - Implemented offline-first sync with conflict resolution
-- Enabled multi-device consistency across real-time applications
+- Enabled real-time multi-device consistency
 
 ---
 
-## 📈 What I Focus On
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamil2223&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil2223&theme=radical" />
+</p>
+
+---
+
+## 🚀 What I Focus On
 
 - AI-native applications  
-- Scalable backend systems  
-- Platform engineering  
-- Real-world production systems  
+- Distributed systems & platform engineering  
+- Real-time scalable architectures  
+- Production-ready backend systems  
 
 ---
 
@@ -70,4 +91,4 @@ I specialize in:
 
 ---
 
-⭐️ Always open to collaborating on AI, backend, and distributed system projects
+⭐️ Open to senior/staff roles in AI, backend, and platform engineering
