@@ -66,11 +66,11 @@ Ethereum | Solidity | Web3
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[[[https://github-readme-stats.vercel.app/api?username=tamil2223&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=tamil2223&show_icons=true&theme=radical)](https://github-readme-stats-sigma-five.vercel.app/api?username=tamil2223&show_icons=true&theme=radical)](https://github-readme-stats-sigma-five.vercel.app/api?username=tamil2223&show_icons=true&theme=radical&cache_seconds=86400)" />
+  <img src="[[[https://github-readme-stats.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical)](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical)](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical&cache_seconds=86400)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil2223&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasu-ravi&theme=radical" />
 </p>
 
 ---
