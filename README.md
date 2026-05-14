@@ -96,7 +96,7 @@ Ethereum | Solidity | Web3
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/tamilarasu-ravi-b80936a0  
+- 💼 LinkedIn: https://linkedin.com/in/tamilarasu-ravi
 - 📧 Email: tamilarasu.ravi@outlook.com  
 
 ---
