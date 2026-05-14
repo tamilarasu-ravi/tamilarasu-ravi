@@ -66,11 +66,21 @@ Ethereum | Solidity | Web3
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[[[https://github-readme-stats.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical)](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical)](https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical&cache_seconds=86400)" />
+  <!-- Stats: sigma-five first (often more available); official github-readme-stats if this image fails to load. GitHub’s image proxy may not always fire onerror on a 503. -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=1800"
+    alt="Tamilarasu Ravi's GitHub stats"
+    onerror="this.onerror=null;this.src='https://github-readme-stats.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=1800'"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasu-ravi&theme=radical" />
+  <!-- Streak: DemoLab first; Heroku deployment as fallback if the image fails to load. -->
+  <img
+    src="https://streak-stats.demolab.com/?user=tamilarasu-ravi&theme=radical"
+    alt="Tamilarasu Ravi's GitHub contribution streak"
+    onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=tamilarasu-ravi&theme=radical'"
+  />
 </p>
 
 ---
