@@ -12,6 +12,13 @@
   <a href="https://github.com/tamilarasu-ravi">GitHub</a>
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?lines=AI+%7C+LLM+%7C+RAG+Systems;LangGraph+%7C+Orchestration+%7C+Production+AI;Cloud+%7C+Microservices+%7C+Real-time+Systems&center=true&width=520&height=50"
+    alt="AI | LLM | RAG Systems"
+  />
+</p>
+
 ---
 
 ## About
@@ -32,15 +39,20 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PGVector-336791?style=flat&logo=postgresql&logoColor=white" alt="PGVector" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-**Also:** Redis · Kafka · MongoDB · Microservices · Event-driven architecture · Ethereum/Solidity
+**Also:** Redis · Microservices · Event-driven architecture · Ethereum/Solidity
 
 ---
 
@@ -64,7 +76,7 @@ TypeScript/Next.js evolution of safety-first close automation: one **orchestrato
 - Tri-state autonomy (`AUTO_TAG` · `QUEUE_REVIEW` · `REFUSE`) — **100%** eval pass rate, **100%** auto-tag precision @ 0.92 on held-out set
 - Rule-first routing, receipt gates, HITL review loop, vendor-rule learning, and full audit replay
 
-[View source](https://github.com/tamilarasu-ravi/recon-ai) · [Live demo](https://recon-ai-ivory.vercel.app/)
+[Live demo](https://recon-ai-ivory.vercel.app/)
 
 ---
 
@@ -86,16 +98,42 @@ Microservices redesign for multi-team LLM routing, async pipelines, and response
 
 ---
 
-## Connect
+## GitHub Stats
 
-| | |
-|---|---|
-| 🌐 **Portfolio** | [tamilarasu-ravi-portfolio.vercel.app](https://tamilarasu-ravi-portfolio.vercel.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/tamilarasu-ravi](https://linkedin.com/in/tamilarasu-ravi) |
-| 🐙 **GitHub** | [github.com/tamilarasu-ravi](https://github.com/tamilarasu-ravi) |
-| 📧 **Email** | [tamilarasu.ravi@outlook.com](mailto:tamilarasu.ravi@outlook.com) |
-| 📍 **Location** | Hong Kong |
+<!-- Stats fallback chain: sigma-five → official Vercel → static badge (409/404 safe) -->
+<p align="center">
+  <a href="https://github.com/tamilarasu-ravi">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=86400"
+      alt="Tamilarasu Ravi's GitHub stats"
+      onerror="this.onerror=null;this.src='https://github-readme-stats.vercel.app/api?username=tamilarasu-ravi&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&cache_seconds=86400';this.onerror=function(){this.onerror=null;this.src='https://img.shields.io/badge/GitHub%20stats-temporarily%20unavailable-181717?style=for-the-badge&logo=github&logoColor=white'}"
+    />
+  </a>
+</p>
+
+<!-- Streak fallback chain: DemoLab → legacy Heroku mirror → static badge -->
+<p align="center">
+  <a href="https://github.com/tamilarasu-ravi">
+    <img
+      src="https://streak-stats.demolab.com/?user=tamilarasu-ravi&theme=radical&cache_seconds=86400"
+      alt="Tamilarasu Ravi's GitHub contribution streak"
+      onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=tamilarasu-ravi&theme=radical';this.onerror=function(){this.onerror=null;this.src='https://img.shields.io/badge/Contribution%20streak-view%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white'}"
+    />
+  </a>
+</p>
 
 ---
 
-⭐️ Open to **senior/staff** roles in AI engineering, backend, and platform architecture
+## Connect
+
+|                  |                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| 🌐 **Portfolio** | [tamilarasu-ravi-portfolio.vercel.app](https://tamilarasu-ravi-portfolio.vercel.app/) |
+| 💼 **LinkedIn**  | [linkedin.com/in/tamilarasu-ravi](https://linkedin.com/in/tamilarasu-ravi)            |
+| 🐙 **GitHub**    | [github.com/tamilarasu-ravi](https://github.com/tamilarasu-ravi)                      |
+| 📧 **Email**     | [tamilarasu.ravi@outlook.com](mailto:tamilarasu.ravi@outlook.com)                     |
+| 📍 **Location**  | Hong Kong                                                                             |
+
+---
+
+⭐️ Open to **senior/staff** roles in AI engineering, full-stack, backend, and platform architecture
