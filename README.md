@@ -84,7 +84,7 @@ TypeScript/Next.js evolution of safety-first close automation: one **orchestrato
 
 End-to-end LLM recommendation system replacing rigid rules with contextual retrieval (PGVector), prompt engineering, and real-time inference at scale.
 
-- Serves **50K+** daily active users with measurable engagement lift
+- Serves **5K+** daily active users with measurable engagement lift
 - Rearchitected LLM orchestration layer — **35%** faster end-to-end response time
 
 ---
