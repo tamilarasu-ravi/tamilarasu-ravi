@@ -1,6 +1,6 @@
 <!-- HERO -->
 <h1 align="center">Hi 👋, I'm Tamilarasu Ravi</h1>
-<h3 align="center">Senior AI & Backend Architect</h3>
+<h3 align="center">Senior AI & Team Lead</h3>
 
 <p align="center">
   Building production-grade AI systems & scalable backend platforms — 10+ years across media, insurance, and AI platforms
